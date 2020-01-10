@@ -1,0 +1,20 @@
+{
+  "name": "websocket-api",
+  "version": "1.0.0",
+  "description": "WebSocket API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WebSocket",
+    "API"
+  ],
+  "author": "Tiago dos Santos Schons",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "randomstring": "^1.1.5",
+    "ws": "^7.2.0"
+  }
+}
